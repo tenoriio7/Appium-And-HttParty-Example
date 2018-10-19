@@ -1,0 +1,5 @@
+[caps]
+platformName = "Android"
+deviceName = 'Nexus_5_API_24'
+app = "path"
+

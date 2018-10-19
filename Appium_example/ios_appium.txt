@@ -1,0 +1,5 @@
+[caps]
+platformName = "iOS"
+platformVersion = "11.4"
+deviceName = "iPhone 6s"
+app = "path"

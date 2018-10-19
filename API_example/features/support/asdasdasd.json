@@ -1,0 +1,194 @@
+{
+    "header": [],
+    "data": [
+        {
+            "status_compra": "1",
+            "data_registro": "2018-09-28T05:00:00.000Z",
+            "valor_compra": {
+                "codigo_moeda": "COP",
+                "simbolo_moeda": "C$",
+                "sinal": "+",
+                "valor": 23830.0
+            },
+            "nome_estabelecimento": "CUOTA MANEJO",
+            "tipo_operacao": "CUOTA DE MANEJO",
+            "parcela_atual": 0,
+            "quantidade_parcelas": 1,
+            "num_cartao": "9454",
+            "pais": 170,
+            "pais_nome": "COLOMBIA",
+            "cidade": " ",
+            "agrupamento": "Por definir",
+            "num_conta": " ",
+            "nome_portador": "LUZANA GUERRERO Q.        ",
+            "num_referencia_autorizacao": " ",
+            "valor_transacao_moeda_local": {
+                "codigo_moeda": "COP",
+                "simbolo_moeda": "C$",
+                "sinal": "+",
+                "valor": 23830.0
+            },
+            "data_processamento": "2018-09-28",
+            "indicador_parcelado": false,
+            "indicador_titularidade": "T",
+            "periodo": "2018-09",
+            "pagamento": false,
+            "tipo": "0"
+        },
+        {
+            "status_compra": "1",
+            "data_registro": "2018-09-26T05:00:00.000Z",
+            "valor_compra": {
+                "codigo_moeda": "COP",
+                "simbolo_moeda": "C$",
+                "sinal": "+",
+                "valor": 916532.31
+            },
+            "nome_estabelecimento": "FLORENCEFORFUN SRL       ",
+            "tipo_operacao": "COMPRA NORMAL",
+            "parcela_atual": 23,
+            "quantidade_parcelas": 24,
+            "num_cartao": "9454",
+            "pais": 380,
+            "pais_nome": "ITALIA",
+            "cidade": " ",
+            "agrupamento": "FLORENCEFORFUN SRL       ",
+            "num_conta": " ",
+            "nome_portador": "LUZANA GUERRERO Q.        ",
+            "num_referencia_autorizacao": "780319",
+            "valor_transacao_moeda_original": {
+                "codigo_moeda": "COP",
+                "simbolo_moeda": "C$",
+                "sinal": "+",
+                "valor": 250.0
+            },
+            "valor_transacao_moeda_local": {
+                "codigo_moeda": "COP",
+                "simbolo_moeda": "C$",
+                "sinal": "+",
+                "valor": 916532.31
+            },
+            "data_processamento": "2018-09-27",
+            "indicador_parcelado": true,
+            "indicador_titularidade": "T",
+            "periodo": "2018-09",
+            "pagamento": false,
+            "tipo": "0"
+        },
+        {
+            "status_compra": "1",
+            "data_registro": "2018-09-25T05:00:00.000Z",
+            "valor_compra": {
+                "codigo_moeda": "COP",
+                "simbolo_moeda": "C$",
+                "sinal": "+",
+                "valor": 73047.9
+            },
+            "nome_estabelecimento": "LEO 3 S.R.L.             ",
+            "tipo_operacao": "COMPRA NORMAL",
+            "parcela_atual": 23,
+            "quantidade_parcelas": 24,
+            "num_cartao": "9454",
+            "pais": 380,
+            "pais_nome": "ITALIA",
+            "cidade": " ",
+            "agrupamento": "LEO 3 S.R.L.             ",
+            "num_conta": " ",
+            "nome_portador": "LUZANA GUERRERO Q.        ",
+            "num_referencia_autorizacao": "744883",
+            "valor_transacao_moeda_original": {
+                "codigo_moeda": "COP",
+                "simbolo_moeda": "C$",
+                "sinal": "+",
+                "valor": 20.0
+            },
+            "valor_transacao_moeda_local": {
+                "codigo_moeda": "COP",
+                "simbolo_moeda": "C$",
+                "sinal": "+",
+                "valor": 73047.9
+            },
+            "data_processamento": "2018-09-26",
+            "indicador_parcelado": true,
+            "indicador_titularidade": "T",
+            "periodo": "2018-09",
+            "pagamento": false,
+            "tipo": "0"
+        },
+        {
+            "status_compra": "1",
+            "data_registro": "2018-09-23T05:00:00.000Z",
+            "valor_compra": {
+                "codigo_moeda": "COP",
+                "simbolo_moeda": "C$",
+                "sinal": "+",
+                "valor": 18413.59
+            },
+            "nome_estabelecimento": "MOBIKE ITALY S.R.L       ",
+            "tipo_operacao": "COMPRA NORMAL",
+            "parcela_atual": 0,
+            "quantidade_parcelas": 1,
+            "num_cartao": "9454",
+            "pais": 380,
+            "pais_nome": "ITALIA",
+            "cidade": " ",
+            "agrupamento": "MOBIKE ITALY S.R.L       ",
+            "num_conta": " ",
+            "nome_portador": "LUZANA GUERRERO Q.        ",
+            "num_referencia_autorizacao": "699500",
+            "valor_transacao_moeda_original": {
+                "codigo_moeda": "COP",
+                "simbolo_moeda": "C$",
+                "sinal": "+",
+                "valor": 5.0
+            },
+            "valor_transacao_moeda_local": {
+                "codigo_moeda": "COP",
+                "simbolo_moeda": "C$",
+                "sinal": "+",
+                "valor": 18413.59
+            },
+            "data_processamento": "2018-09-24",
+            "indicador_parcelado": false,
+            "indicador_titularidade": "T",
+            "periodo": "2018-09",
+            "pagamento": false,
+            "tipo": "0"
+        },
+        {
+            "status_compra": "1",
+            "data_registro": "2018-09-22T05:00:00.000Z",
+            "valor_compra": {
+                "codigo_moeda": "COP",
+                "simbolo_moeda": "C$",
+                "sinal": "+",
+                "valor": 73654.35
+            },
+            "nome_estabelecimento": "APPENNINO SHUTTLE        ",
+            "tipo_operacao": "COMPRA NORMAL",
+            "parcela_atual": 23,
+            "quantidade_parcelas": 24,
+            "num_cartao": "9454",
+            "pais": 276,
+            "pais_nome": "ALEMANIA",
+            "cidade": " ",
+            "agrupamento": "APPENNINO SHUTTLE        ",
+            "num_conta": " ",
+            "nome_portador": "LUZANA GUERRERO Q.        ",
+            "num_referencia_autorizacao": "685090",
+            "valor_transacao_moeda_original": {
+                "codigo_moeda": "COP",
+                "simbolo_moeda": "C$",
+                "sinal": "+",
+                "valor": 20.0
+            },
+            "valor_transacao_moeda_local": {
+                "codigo_moeda": "COP",
+                "simbolo_moeda": "C$",
+                "sinal": "+",
+                "valor": 73654.35
+            },
+            "data_processamento": "2018-09-24",
+            "indicador_parcelado": true,
+            "indicador_titularidade": "T",
+            "periodo":"
